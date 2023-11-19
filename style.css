@@ -40,6 +40,7 @@ article div {
 /* Paragraphs */
 p {
   line-height: 1.5;
+  text-align: left;
 }
 
 /* Links */
@@ -91,4 +92,8 @@ hr {
 
 .item-double {
   flex: 2;
+}
+
+li {
+  text-align: left;
 }
