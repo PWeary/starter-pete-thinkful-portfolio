@@ -18,10 +18,7 @@ h3 {
 
 /* Header */
 header {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
+  
 }
 
 /* Containers */
@@ -78,4 +75,20 @@ footer {
 /* Other page elements */
 hr {
   border: 1px solid black;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.item {
+  flex: 1;
+  margin: 10px;
+}
+
+.item-double {
+  flex: 2;
 }
