@@ -41,7 +41,6 @@ article div {
 p {
   line-height: 1.5;
   text-align: left;
-  font-size: 14;
 }
 
 /* Links */
@@ -97,4 +96,8 @@ hr {
 
 li {
   text-align: left;
+}
+
+.text-small {
+  font-size: 14px;
 }
